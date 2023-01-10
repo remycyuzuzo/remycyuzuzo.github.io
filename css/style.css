@@ -255,7 +255,7 @@ a:focus {
   margin-bottom: 45px;
   padding: 120px 0 0 0;
   overflow: hidden;
-  background: linear-gradient(rgba(239, 35, 60, 0.95), rgba(239, 35, 60, 0.95)),
+  background: linear-gradient(rgba(53, 88, 178, 0.95), rgba(41, 57, 109, 0.95)),
     url(../img/hero-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -1308,7 +1308,7 @@ a:focus {
 }
 
 .contact .container-fluid {
-  background: url(../img/contact.jpg) left center no-repeat;
+  background: left center no-repeat;
   background-size: contain;
 }
 
